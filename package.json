@@ -1,0 +1,23 @@
+{
+  "name": "nedayer",
+  "version": "1.0.0",
+  "description": "",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "files": [
+    "/dist"
+  ],
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/medasmarathon/Nedayer.git"
+  },
+  "author": "Duc Dang",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/medasmarathon/Nedayer/issues"
+  },
+  "homepage": "https://github.com/medasmarathon/Nedayer#readme"
+}
