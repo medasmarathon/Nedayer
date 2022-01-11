@@ -19,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/medasmarathon/Nedayer/issues"
   },
-  "homepage": "https://github.com/medasmarathon/Nedayer#readme"
+  "homepage": "https://github.com/medasmarathon/Nedayer#readme",
+  "dependencies": {
+    "sequelize": "^6.13.0"
+  }
 }
