@@ -8,7 +8,9 @@
     "/dist"
   ],
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "update-ex": "cd ./example && yarn install",
+    "example": "cd ./example && node ."
   },
   "repository": {
     "type": "git",
